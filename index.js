@@ -21,4 +21,4 @@ var mixCase === 'hi, hello';
 
 mixCase.toLowerCase() === mixCase:
 
-mixCase.toUperCase() === mixCase:
+mixCase.toUpperCase() === mixCase:
